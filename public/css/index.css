@@ -1,0 +1,12 @@
+body{
+  padding: 0;
+  margin: 0;
+  background-color: #465b4a;
+  font-family: "Marhey", sans-serif;
+}
+
+main {
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
